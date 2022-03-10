@@ -94,7 +94,8 @@ header{
 
 aside{
     height: 100%;
-    width: 280px;
+    width: 25vw;
+    min-width: 15em;
     background-color: white;
     overflow-y: auto;
 }
